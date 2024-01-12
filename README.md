@@ -2,6 +2,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:joaoluizcienciadedados@gmail.com) 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
+
+![capa - readme](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/blob/main/ferramentas/capa-%20readme.png)
+
 <sup> 🔗 Visite também >> [Portfólio de Ciência da Computação](https://github.com/joaoluizdev/) </sup>
 
 
@@ -27,7 +30,7 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 ## Sobre os cursos:
 ### [1- Power BI Desktop: construindo meu primeiro dashboard](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/1-%20Power%20BI%20Desktop%20-%20construindo%20meu%20primeiro%20dashboard)   
 **Professor:**  [Daniel Siqueira](https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/)  
-**Carga horária:** 8   
+**Carga horária:** 8h   
 **Situação:** Concluído  
 **Certificado:** [Clique aqui](https://cursos.alura.com.br/certificate/joaoluizcienciacomp/power-bi-desktop-construindo-primeiro-dashboard)  
 **Dashboard:**  
@@ -47,7 +50,7 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 ---
 ### [2- Dashboard com Power BI: visualizando dados](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/2-%20Dashboard_com_Power_BI-visualizando_dados)  
 **Professor:**  [Ana Duarte](https://www.linkedin.com/in/anaduart/)  
-**Carga horária:** 8   
+**Carga horária:** 8h   
 **Situação:** Concluído  
 **Certificado:** [Clique aqui](https://cursos.alura.com.br/certificate/joaoluizcienciacomp/dashboard-power-bi-visualizando-dados)  
 **Dashboard:**  
