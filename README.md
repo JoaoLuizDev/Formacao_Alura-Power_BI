@@ -17,15 +17,18 @@ Este repositório foi criado para armazenar trabalhos construídos ao longo da f
 Registro que esse é meu primeiro contato com Power BI, portanto espero que os estudos ao longo do curso reflitam em qualidade e evolução dos trabalhos aqui apresentados.
 
 ## Lista de cursos:
-1- Power BI Desktop: construindo meu primeiro dashboard;  
-2- Dashboard com Power BI: visualizando dados;  
-3- Power BI Desktop: tratamento de dados no Power Query;  
-4- Power BI: DAX contextos e iteração;  
-5- Power BI: aprofundando na linguagem DAX;  
-6- Power BI: explorando recursos visuais;  
-7- Power BI: Report Builder;  
-8- Power BI: conhecendo o serviço.  
+✔️1- Power BI Desktop: construindo meu primeiro dashboard;  
+✔️2- Dashboard com Power BI: visualizando dados;  
+✔️3- Power BI Desktop: tratamento de dados no Power Query;  
+✔️4- Power BI: DAX contextos e iteração;  
+⌛ 5- Power BI: aprofundando na linguagem DAX;  
+⌛ 6- Power BI: explorando recursos visuais;  
+⌛ 7- Power BI: Report Builder;  
+⌛ 8- Power BI: conhecendo o serviço.  
 
+Legenda:  
+✔️- concluído;    
+⌛ - cursos não iniciados ainda    
 
 ## Sobre os cursos:
 ### [1- Power BI Desktop: construindo meu primeiro dashboard](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/1-%20Power%20BI%20Desktop%20-%20construindo%20meu%20primeiro%20dashboard)   
